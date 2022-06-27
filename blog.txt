@@ -2,4 +2,5 @@
 2.main brunch-hi~
 3.main brunch-dev1-hihi
 4.main brunch-dev2-hello~
-5.main brunch-dev2-원격저장
+5.main brunch-dev2-로컬저장
+5.main brunch-dev2-로컬저장
